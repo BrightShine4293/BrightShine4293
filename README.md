@@ -1,13 +1,13 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-<h4 align="start">About me</h4>
+<h3 align="start">About me</h4>
 
-<h5>I'm a highly skilled React.js/Next.js Developer, proficient in Front-End and Full-Stack development.</h5>h5>
-My expertise spans across the MERN stack, enabling me to craft top-notch websites and apps.
-Passionate about creating elegant, intuitive, and scalable solutions, I specialize in leveraging React.js, Next.js, Node.js, and MongoDB ,Express.js, Prisma, PostgreSQL to meet the dynamic needs of modern businesses.
-I thrive on building high-quality, user-centric applications that elevate user experiences and drive success. work with UI libraries like Material UI, ShadCn-UI, Tailwind CSS, Chakra UI, and Ant Design, ensuring not just a website, but a stunningly attractive, lightning-fast, and secure digital masterpiece.
+<h5>I'm a highly skilled React.js/Next.js Developer, proficient in Front-End and Full-Stack development.</h5>
+<h5>My expertise spans across the MERN stack, enabling me to craft top-notch websites and apps.</h5>
+<h5>Passionate about creating elegant, intuitive, and scalable solutions, I specialize in leveraging React.js, Next.js, Node.js, and MongoDB ,Express.js, Prisma, PostgreSQL to meet the dynamic needs of modern businesses.</h5>
+<h5>I thrive on building high-quality, user-centric applications that elevate user experiences and drive success. work with UI libraries like Material UI, ShadCn-UI, Tailwind CSS, Chakra UI, and Ant Design, ensuring not just a website, but a stunningly attractive, lightning-fast, and secure digital masterpiece.</h5>
 
 
-**languages and tools:**  
+<h3 align="left">🛠 Language and tools</h3>
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
