@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <h4 align="start">About me</h4>
 
-I'm a highly skilled React.js/Next.js Developer, proficient in Front-End and Full-Stack development.
+<h5>I'm a highly skilled React.js/Next.js Developer, proficient in Front-End and Full-Stack development.</h5>h5>
 My expertise spans across the MERN stack, enabling me to craft top-notch websites and apps.
 Passionate about creating elegant, intuitive, and scalable solutions, I specialize in leveraging React.js, Next.js, Node.js, and MongoDB ,Express.js, Prisma, PostgreSQL to meet the dynamic needs of modern businesses.
 I thrive on building high-quality, user-centric applications that elevate user experiences and drive success. work with UI libraries like Material UI, ShadCn-UI, Tailwind CSS, Chakra UI, and Ant Design, ensuring not just a website, but a stunningly attractive, lightning-fast, and secure digital masterpiece.
@@ -159,6 +159,6 @@ I thrive on building high-quality, user-centric applications that elevate user e
 
 ## Some stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goodman4293&theme=onedark&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=goodman4293&theme=onedark&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=goodman4293&theme=onedark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrightShine4293&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BrightShine4293&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=BrightShine4293&theme=onedark&hide_border=true)
